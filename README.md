@@ -9,7 +9,7 @@
 
 ## 📸 Screenshot
 
-<img src="https://user-images.githubusercontent.com/115879524/199815766-4347c6d0-a6aa-4e5b-b56a-fa6efa22d99b.png" width="500" />
+<img src="https://user-images.githubusercontent.com/115879524/199821282-d5bb298d-e2fe-4362-8148-429f2397ce89.png" width="500" />
 
 ## 🤝 Contributing
 
