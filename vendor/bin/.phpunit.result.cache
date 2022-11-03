@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalculatorTest\\CalculatorTest::testSumTwoNumbers":4,"TDD\\CalculatorTest::testSumTwoNumbers":4},"times":{"CalculatorTest\\CalculatorTest::testSumTwoNumbers":0.007,"TDD\\CalculatorTest::testSumTwoNumbers":0.01}}
